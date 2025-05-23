@@ -1,0 +1,4382 @@
+[
+  {
+    "agent_id": "7f9fc1e0-3dd3-4f65-b598-a000a265783d",
+    "name": "Dr. Elena Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 61,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.7,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.48
+  },
+  {
+    "agent_id": "1185790d-6be2-4df0-9a29-0b4db8e9a283",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Pragmatist",
+    "age": 59,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.8,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 4.8,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 5.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.3,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "921b733d-7582-4c41-b2d0-9a1919659fd8",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Maverick",
+    "age": 49,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 7.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.1,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "40b6b3f7-15c7-4a6b-a7b7-c574cef7873a",
+    "name": "Dr. Elena Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 47,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 5.1,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.34
+  },
+  {
+    "agent_id": "dfdc3c9f-bfee-4101-bf5b-753a6f78446c",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Loyalist",
+    "age": 63,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 5.4,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.59
+  },
+  {
+    "agent_id": "bf9e235b-4cd9-4fc6-93a8-f15ca0abde69",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Maverick",
+    "age": 54,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "4ff5e3c2-e947-43cb-ba6e-9045c811f6f3",
+    "name": "Dr. Elena Chen",
+    "phase_name": "The Operator",
+    "age": 48,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 5.5,
+      "Crisis Management": 3.6,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.42
+  },
+  {
+    "agent_id": "4564d03a-c392-43ae-a2d8-60b718c9701a",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 62,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 6.5,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 6.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.3,
+    "learning_rate": 0.4
+  },
+  {
+    "agent_id": "ed11bfd4-a986-4e4f-a1cb-ecc5858e2792",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Operator",
+    "age": 39,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 6.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.1,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "4873acd1-f684-4d43-b29b-1ecaa7064e07",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Idealist",
+    "age": 62,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.1,
+      "Crisis Management": 4.6,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.42
+  },
+  {
+    "agent_id": "898e36aa-d651-4ce1-ad78-5b3d416041c2",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Idealist",
+    "age": 53,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 4.6,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.35
+  },
+  {
+    "agent_id": "09a40923-b0bd-470d-a2e9-a486d00f0f43",
+    "name": "Dr. Kenji Martinez",
+    "phase_name": "The Maverick",
+    "age": 49,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 7.0,
+      "Policy Implementation": 4.6,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "a7a2711e-9f7a-4c04-a522-b074d66bd723",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Pragmatist",
+    "age": 41,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.3,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 4.0,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.52
+  },
+  {
+    "agent_id": "862cc3a0-a843-434d-b043-ca42a66e662b",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Operator",
+    "age": 42,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 5.3,
+      "Crisis Management": 4.8,
+      "Trade Negotiation": 5.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.65
+  },
+  {
+    "agent_id": "0f7b3adf-831b-48e5-a079-fe99ead1644a",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Idealist",
+    "age": 56,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.1,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.52
+  },
+  {
+    "agent_id": "86cdec6d-2d4e-4b94-87fd-1079368cd246",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Loyalist",
+    "age": 45,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.6,
+      "Economic Strategy": 7.9,
+      "Policy Implementation": 7.9,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 8.7
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.95
+  },
+  {
+    "agent_id": "b9b069e5-5f32-4cc1-9ce5-f637d8fea15f",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Maverick",
+    "age": 59,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.5,
+      "Economic Strategy": 8.7,
+      "Policy Implementation": 7.1,
+      "Crisis Management": 7.3,
+      "Trade Negotiation": 9.5
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.9,
+    "learning_rate": 0.8
+  },
+  {
+    "agent_id": "0b816d2b-7611-475b-9285-83dd0ba35026",
+    "name": "Dr. Luis Singh",
+    "phase_name": "The Operator",
+    "age": 40,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Market Libertarian",
+    "governance_alignment": "Free-Market Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.8,
+      "Economic Strategy": 8.3,
+      "Policy Implementation": 7.3,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 9.2
+    },
+    "risk_flags": [
+      "Ideological rigidity"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 8.8,
+    "learning_rate": 0.84
+  },
+  {
+    "agent_id": "13fcf08f-6720-496a-9458-b26003029e1b",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Maverick",
+    "age": 48,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.4,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 4.3,
+      "Trade Negotiation": 6.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.45
+  },
+  {
+    "agent_id": "3ce1dc1c-929d-4edd-b938-68d8af5245a8",
+    "name": "Dr. Amara Okoro",
+    "phase_name": "The Idealist",
+    "age": 48,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 5.9,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 4.8,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "b3853fc5-ef3d-49af-b22f-cfb49363c268",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Loyalist",
+    "age": 61,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.34
+  },
+  {
+    "agent_id": "219d8c91-197e-4388-a2b6-30945c8a6bc0",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Idealist",
+    "age": 53,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.6,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 6.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.44
+  },
+  {
+    "agent_id": "bff2066a-91b0-4c37-86fa-82f8bf13d13e",
+    "name": "Dr. Elena Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 49,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.41
+  },
+  {
+    "agent_id": "7ffa0baf-01ff-415e-87cf-2c47253cbe06",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Operator",
+    "age": 55,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 3.6,
+      "Trade Negotiation": 5.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "bd4aba7d-13cf-4249-9603-44210d15a187",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Maverick",
+    "age": 50,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.7,
+    "learning_rate": 0.51
+  },
+  {
+    "agent_id": "ac7bee75-a4ea-4ee9-b407-49c26be54b3e",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 62,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.8,
+      "Economic Strategy": 7.0,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.51
+  },
+  {
+    "agent_id": "889e7c8b-e595-42e1-95d2-55e0b73fa0fb",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Maverick",
+    "age": 44,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.4,
+      "Crisis Management": 4.5,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.0,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "5fae15c6-9fe8-4a67-8d46-6f89062ab243",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Pragmatist",
+    "age": 49,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 4.6,
+      "Crisis Management": 5.0,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.36
+  },
+  {
+    "agent_id": "42bab91f-4fba-4238-aaff-3aab67987790",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Idealist",
+    "age": 53,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 5.5,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.56
+  },
+  {
+    "agent_id": "74764539-e576-444b-a827-07aa3d2643d1",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Idealist",
+    "age": 56,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.3,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 4.3,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.59
+  },
+  {
+    "agent_id": "07bcc965-88af-4d8e-b75f-ded8f3c7c499",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 51,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.6,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 6.5,
+      "Crisis Management": 3.7,
+      "Trade Negotiation": 5.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.4,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "7faf9e23-101a-4d47-b137-2966d60eda02",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Operator",
+    "age": 58,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.3,
+    "learning_rate": 0.36
+  },
+  {
+    "agent_id": "d870e3af-14d1-4589-9834-d404b1f974a2",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Idealist",
+    "age": 49,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 6.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.0,
+    "learning_rate": 0.31
+  },
+  {
+    "agent_id": "f40b373d-bb72-4820-933a-bfd8c6ec004a",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Loyalist",
+    "age": 54,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.7,
+      "Economic Strategy": 8.4,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 7.6,
+      "Trade Negotiation": 9.4
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.67
+  },
+  {
+    "agent_id": "ba5744f3-9162-4f8b-b93b-b5a7424967f8",
+    "name": "Dr. Fatima Okoro",
+    "phase_name": "The Maverick",
+    "age": 50,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.6,
+      "Economic Strategy": 8.4,
+      "Policy Implementation": 7.3,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 8.6
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.89
+  },
+  {
+    "agent_id": "22246aee-fe7b-48cc-a72f-66479c476070",
+    "name": "Dr. Kenji Martinez",
+    "phase_name": "The Maverick",
+    "age": 43,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Centrist Pragmatist",
+    "governance_alignment": "Mixed Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.3,
+      "Economic Strategy": 8.3,
+      "Policy Implementation": 8.3,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.96
+  },
+  {
+    "agent_id": "37d10a32-a979-4ad3-b1eb-63e6654c0003",
+    "name": "Dr. Elena Martinez",
+    "phase_name": "The Operator",
+    "age": 47,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 3.2,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.1,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "6f108cd1-2e3c-4786-9f28-4753f51b3e86",
+    "name": "Dr. Fatima Okoro",
+    "phase_name": "The Idealist",
+    "age": 43,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 4.2,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 6.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "a34f7d53-31f9-4b00-bb67-8e4757fbf55f",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Idealist",
+    "age": 55,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.48
+  },
+  {
+    "agent_id": "a42ef479-1a33-40fe-9ffd-3951cc6f4173",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Maverick",
+    "age": 61,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 5.0,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.7,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "f02e5f4e-609c-40e0-8ba4-693153ae8f42",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Loyalist",
+    "age": 53,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.6,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 3.8,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.1,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "2bccd188-65fe-4165-877f-22d0004096e6",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Operator",
+    "age": 58,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 4.6,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.5,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "39ab5e1b-24e0-455b-8a1c-04c56ba77689",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 56,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 4.3,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "b0ec31f1-3eeb-4250-b77c-24ec5aaff4d7",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Idealist",
+    "age": 57,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.1,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "ffbcf30a-a6ba-4c21-921f-7227230a1445",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Pragmatist",
+    "age": 52,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.9,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.46
+  },
+  {
+    "agent_id": "04cf42ac-cd3d-4bfd-a891-c393b00aacd6",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Pragmatist",
+    "age": 60,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 6.9,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 5.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.69
+  },
+  {
+    "agent_id": "79a2d74e-459f-4305-ad7c-5dd39292dd08",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Operator",
+    "age": 39,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.3,
+    "learning_rate": 0.55
+  },
+  {
+    "agent_id": "86623028-7717-40a6-8a38-57c00e47806f",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 41,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 9.0,
+    "learning_rate": 0.45
+  },
+  {
+    "agent_id": "c7d603ec-fd2d-4e31-8147-f4a1688579a7",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Loyalist",
+    "age": 41,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 4.6,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 5.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.3,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "911524c7-b475-4cc1-a05a-35f55b7787ef",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 49,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.35
+  },
+  {
+    "agent_id": "5f6e0590-c2bd-41ca-afa0-6c5a2a65373e",
+    "name": "Dr. Fatima Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 60,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 5.0,
+      "Trade Negotiation": 6.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.34
+  },
+  {
+    "agent_id": "f27365bd-ab19-4029-9389-63cb6e193abf",
+    "name": "Dr. Fatima Martinez",
+    "phase_name": "The Operator",
+    "age": 45,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.1,
+      "Economic Strategy": 7.2,
+      "Policy Implementation": 6.8,
+      "Crisis Management": 7.2,
+      "Trade Negotiation": 9.5
+    },
+    "risk_flags": [
+      "Ideological rigidity"
+    ],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.93
+  },
+  {
+    "agent_id": "68ddedbe-2a38-41bb-a255-2c6779497d8a",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Loyalist",
+    "age": 53,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.9,
+      "Economic Strategy": 8.9,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 6.3,
+      "Trade Negotiation": 8.7
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.3,
+    "learning_rate": 0.76
+  },
+  {
+    "agent_id": "20042b85-19f9-42b2-8a8a-1e18a937a021",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Operator",
+    "age": 49,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Social Democrat",
+    "governance_alignment": "Social Market Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.3,
+      "Economic Strategy": 8.2,
+      "Policy Implementation": 6.9,
+      "Crisis Management": 6.1,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.96
+  },
+  {
+    "agent_id": "5266b526-982a-4121-b3c0-8a70aaed733b",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Pragmatist",
+    "age": 46,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 4.2,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.47
+  },
+  {
+    "agent_id": "696edc09-0632-4041-ad5a-87161568cd7d",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Idealist",
+    "age": 54,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 5.4,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.4
+  },
+  {
+    "agent_id": "e944d01e-4508-419f-b687-51fbe9f9ae91",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Pragmatist",
+    "age": 49,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.5,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 3.6,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.5
+  },
+  {
+    "agent_id": "e0e775e0-6c06-4ab4-ace9-d0142969ed17",
+    "name": "Dr. Kenji Martinez",
+    "phase_name": "The Loyalist",
+    "age": 40,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 6.9,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 7.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.41
+  },
+  {
+    "agent_id": "7ca6ae40-6727-41ac-82a4-03029e7a941f",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Operator",
+    "age": 51,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.9,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.8,
+    "learning_rate": 0.44
+  },
+  {
+    "agent_id": "744fc859-f29a-4c1d-ac67-54ae6184e96f",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Operator",
+    "age": 47,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.3,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 5.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.47
+  },
+  {
+    "agent_id": "9ac3392a-5719-4b81-a3a2-09d0f93514f9",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Operator",
+    "age": 62,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 7.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "17f1563a-2333-4017-b27a-08e94359e190",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Maverick",
+    "age": 61,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.64
+  },
+  {
+    "agent_id": "c9e5c9c2-525f-419f-afde-f2d05b961005",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Loyalist",
+    "age": 55,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 4.3,
+      "Crisis Management": 3.2,
+      "Trade Negotiation": 6.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.59
+  },
+  {
+    "agent_id": "ccdd8b0f-74a0-4e2c-a068-961b16013c01",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Idealist",
+    "age": 49,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 6.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.9,
+    "learning_rate": 0.43
+  },
+  {
+    "agent_id": "60e241a3-be31-4f0b-9543-b313310a6252",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Loyalist",
+    "age": 60,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 3.6,
+      "Trade Negotiation": 5.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "92b2e80c-589f-4e67-9f16-210d04dd3e77",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Operator",
+    "age": 57,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.46
+  },
+  {
+    "agent_id": "ece09bbc-7384-47f1-98f0-f54ff8bfd7f3",
+    "name": "Dr. Luis Singh",
+    "phase_name": "The Operator",
+    "age": 42,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.8,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 5.5,
+      "Crisis Management": 4.4,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.6
+  },
+  {
+    "agent_id": "0016ff1d-18a9-4e49-8ca2-85ebbef7dd27",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Operator",
+    "age": 53,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "fc970007-418a-46b0-b5ae-766e7dd229d4",
+    "name": "Dr. Amara Singh",
+    "phase_name": "The Maverick",
+    "age": 63,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 4.4,
+      "Trade Negotiation": 5.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.34
+  },
+  {
+    "agent_id": "b87922e0-2e85-410d-b881-e715f5ad023d",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Pragmatist",
+    "age": 59,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.7,
+      "Economic Strategy": 8.2,
+      "Policy Implementation": 7.7,
+      "Crisis Management": 7.2,
+      "Trade Negotiation": 7.0
+    },
+    "risk_flags": [
+      "Ideological rigidity"
+    ],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.86
+  },
+  {
+    "agent_id": "6a179a40-edac-4493-b4d4-8d822f7d9dd9",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Maverick",
+    "age": 42,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.4,
+      "Economic Strategy": 7.5,
+      "Policy Implementation": 8.3,
+      "Crisis Management": 6.8,
+      "Trade Negotiation": 8.9
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "2ba04a45-02c3-4720-9e0f-5b46a2700dfe",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Loyalist",
+    "age": 59,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Strategic Authoritarian",
+    "governance_alignment": "State Capitalism",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.3,
+      "Economic Strategy": 8.7,
+      "Policy Implementation": 7.5,
+      "Crisis Management": 7.2,
+      "Trade Negotiation": 9.0
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.0,
+    "learning_rate": 0.76
+  },
+  {
+    "agent_id": "b720be77-9715-4db1-aa0f-bbb1a709ade6",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Maverick",
+    "age": 48,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 6.5,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.7,
+    "learning_rate": 0.51
+  },
+  {
+    "agent_id": "dd2c7311-31d0-4f8d-8101-50f126886497",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Loyalist",
+    "age": 47,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 3.1,
+      "Trade Negotiation": 6.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "749f3f83-0218-4daf-95ff-36fe72d96894",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 63,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 3.8,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.67
+  },
+  {
+    "agent_id": "93abaf42-a35f-4b03-8ebf-9997ec899328",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Operator",
+    "age": 53,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 6.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "0d681a77-c003-4df1-8c22-930298acdfab",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Pragmatist",
+    "age": 63,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 5.1,
+      "Crisis Management": 4.5,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.31
+  },
+  {
+    "agent_id": "733eada2-fd0e-410a-a6a1-be053f6e2fd3",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Maverick",
+    "age": 42,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.7,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 6.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.59
+  },
+  {
+    "agent_id": "1f682df6-481c-44df-ab51-77b7772677dd",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Idealist",
+    "age": 55,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 5.3,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 5.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.6
+  },
+  {
+    "agent_id": "2b797643-9385-41b2-b079-960217bc13ed",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 41,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 6.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.5
+  },
+  {
+    "agent_id": "8f1138ac-cb90-4cf0-b6ce-987c614b8449",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Pragmatist",
+    "age": 60,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 5.4,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.4
+  },
+  {
+    "agent_id": "2550329f-0999-48e6-b81f-16f79be608db",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 48,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 7.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.1,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "0afebc66-bca0-4237-96bc-65cce04e2a6c",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 45,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.65
+  },
+  {
+    "agent_id": "ad5f105f-00ba-4e55-a72f-3a1b63f81477",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 40,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 7.0,
+      "Policy Implementation": 5.5,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.55
+  },
+  {
+    "agent_id": "0d6bcc07-46e6-41e0-a1bc-b055319616da",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Operator",
+    "age": 51,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.31
+  },
+  {
+    "agent_id": "890349a9-3d2e-4c25-b439-71aff0bd0708",
+    "name": "Dr. Elena Chen",
+    "phase_name": "The Loyalist",
+    "age": 63,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.5,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.9,
+    "learning_rate": 0.43
+  },
+  {
+    "agent_id": "949e1387-a0fb-42c3-af70-517604577c43",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Operator",
+    "age": 47,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.4,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.5,
+      "Crisis Management": 3.1,
+      "Trade Negotiation": 7.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "9da5715b-2fdd-424a-98df-742dca80b38c",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 62,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.8,
+      "Economic Strategy": 8.3,
+      "Policy Implementation": 6.7,
+      "Crisis Management": 7.6,
+      "Trade Negotiation": 9.3
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.8,
+    "learning_rate": 0.96
+  },
+  {
+    "agent_id": "a1356834-cd5e-4b18-8366-e578e039bf77",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Idealist",
+    "age": 59,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.7,
+      "Economic Strategy": 8.1,
+      "Policy Implementation": 8.1,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 8.5
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.7,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "732fb554-2eec-4290-a60c-56095825b7b2",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Maverick",
+    "age": 63,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Centralized Planner",
+    "governance_alignment": "Command Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.8,
+      "Economic Strategy": 7.0,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 6.8,
+      "Trade Negotiation": 9.2
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.6,
+    "learning_rate": 0.61
+  },
+  {
+    "agent_id": "ab40188b-f7d9-4efa-a72f-3df7bb5a197d",
+    "name": "Dr. Amara Okoro",
+    "phase_name": "The Idealist",
+    "age": 52,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.9,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 5.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.39
+  },
+  {
+    "agent_id": "620c2753-33f7-4062-a856-261c90f22710",
+    "name": "Dr. Amara Chen",
+    "phase_name": "The Idealist",
+    "age": 41,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.6,
+    "learning_rate": 0.46
+  },
+  {
+    "agent_id": "cbaf1222-c836-46f0-8adf-48184e6d6231",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Pragmatist",
+    "age": 48,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.5
+  },
+  {
+    "agent_id": "ce8ed13a-7d84-4a57-8d38-57e3a53b5521",
+    "name": "Dr. Luis Okoro",
+    "phase_name": "The Loyalist",
+    "age": 40,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.2,
+    "learning_rate": 0.44
+  },
+  {
+    "agent_id": "05b8a788-3b7e-4ea0-b13b-722a0f863ca7",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Loyalist",
+    "age": 45,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.3,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.35
+  },
+  {
+    "agent_id": "d6c24c5c-e8ed-462d-81a9-c08f7a6e7088",
+    "name": "Dr. Fatima Okoro",
+    "phase_name": "The Pragmatist",
+    "age": 51,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 4.8,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.4,
+    "learning_rate": 0.5
+  },
+  {
+    "agent_id": "6842cec2-6e8f-413f-b9f3-4ba3dfd85e94",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Maverick",
+    "age": 40,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "ab21e59d-67b7-400b-8784-4e4e38ee53e1",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Operator",
+    "age": 46,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 7.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.3,
+    "learning_rate": 0.41
+  },
+  {
+    "agent_id": "f7ce9c67-0fe5-449e-821e-3b37515fa5e0",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Pragmatist",
+    "age": 49,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.9,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 3.7,
+      "Trade Negotiation": 7.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.2,
+    "learning_rate": 0.61
+  },
+  {
+    "agent_id": "6e3158ff-d783-4011-b3fa-df1fd1a3a11d",
+    "name": "Dr. Elena Chen",
+    "phase_name": "The Idealist",
+    "age": 42,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 7.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.41
+  },
+  {
+    "agent_id": "77b445c2-85b6-49a1-a177-f5207ec8fe39",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Operator",
+    "age": 41,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 7.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.58
+  },
+  {
+    "agent_id": "36dadb81-9650-43a6-92c1-e8e02a7392af",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Maverick",
+    "age": 62,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 9.0,
+    "learning_rate": 0.56
+  },
+  {
+    "agent_id": "023c9854-1e34-4027-a278-0f3af0a1700f",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Idealist",
+    "age": 60,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 3.8,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.69
+  },
+  {
+    "agent_id": "a2726970-2de1-4795-ab16-eb3f9f02bb22",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Pragmatist",
+    "age": 61,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.6,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.8,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "2e58cd91-e1be-4140-bb13-bc9fae064cea",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Idealist",
+    "age": 53,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.7,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.46
+  },
+  {
+    "agent_id": "b700970f-32fd-4626-a308-337c2049b2b3",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Operator",
+    "age": 46,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.5,
+      "Economic Strategy": 7.3,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 9.2
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.85
+  },
+  {
+    "agent_id": "4519a9c2-b915-4de8-b9d1-d89600fdfc41",
+    "name": "Dr. Kenji Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 47,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.8,
+      "Economic Strategy": 7.9,
+      "Policy Implementation": 6.6,
+      "Crisis Management": 8.0,
+      "Trade Negotiation": 8.9
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.65
+  },
+  {
+    "agent_id": "4fa5b1bc-504e-44f3-a789-a13a2cdb3f2e",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Maverick",
+    "age": 56,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Faith-Based Economist",
+    "governance_alignment": "Islamic Economic System",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.6,
+      "Economic Strategy": 8.5,
+      "Policy Implementation": 7.9,
+      "Crisis Management": 6.4,
+      "Trade Negotiation": 9.4
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.85
+  },
+  {
+    "agent_id": "f3da020f-5b46-41d8-939d-670f89b1f0b0",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Maverick",
+    "age": 57,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.6,
+      "Economic Strategy": 6.3,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 4.4,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "a72a0a6d-2ce5-403c-bbac-adb969e5d6fc",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Maverick",
+    "age": 46,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 5.1,
+      "Crisis Management": 4.8,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "2d6b4039-2e64-4e17-b76b-bd774dd92762",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Loyalist",
+    "age": 38,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.3,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 3.2,
+      "Trade Negotiation": 6.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.1,
+    "learning_rate": 0.41
+  },
+  {
+    "agent_id": "f6672779-0609-4c4d-ac3c-d530165200cd",
+    "name": "Dr. Fatima Okoro",
+    "phase_name": "The Maverick",
+    "age": 52,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 5.1,
+      "Policy Implementation": 5.4,
+      "Crisis Management": 3.1,
+      "Trade Negotiation": 8.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.44
+  },
+  {
+    "agent_id": "98f32151-3a6b-48d9-91e1-a79feb9a22a7",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Idealist",
+    "age": 47,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 4.3,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.6
+  },
+  {
+    "agent_id": "0e86e51a-58ab-4c1e-a94a-dca01f9efa34",
+    "name": "Dr. Amara Singh",
+    "phase_name": "The Loyalist",
+    "age": 58,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.8,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 4.3,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "525c015e-1e93-4a7e-b4d7-0673f3d6cd7c",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Idealist",
+    "age": 56,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 5.8,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 5.4,
+      "Trade Negotiation": 6.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.58
+  },
+  {
+    "agent_id": "e8c1f260-4a33-418b-ad38-2941f0bb6abb",
+    "name": "Dr. Luis Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 44,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.4,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 5.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "b8c4316f-33c5-499b-8359-6b5ea0cebc49",
+    "name": "Dr. Fatima Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 43,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.4,
+      "Trade Negotiation": 8.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "e29df74e-2e9b-4bfa-8c1e-480eb29a04c1",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Operator",
+    "age": 57,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.4,
+      "Economic Strategy": 5.9,
+      "Policy Implementation": 5.5,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.63
+  },
+  {
+    "agent_id": "c5f58855-0958-4dcc-883a-d01af138044d",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Loyalist",
+    "age": 40,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.65
+  },
+  {
+    "agent_id": "6136720e-12d3-411e-a9d3-80e4d0ad9b27",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Operator",
+    "age": 59,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 8.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.33
+  },
+  {
+    "agent_id": "1d14266b-90ce-4a82-9933-03f7fbb5f969",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Idealist",
+    "age": 47,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 4.6,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.66
+  },
+  {
+    "agent_id": "9984bdcb-150b-4628-bef3-d0cc66e4ff4a",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 60,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 5.4,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.4,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "88cdb6bf-6d65-475c-8d4a-b944e5d4a118",
+    "name": "Dr. Amara Okoro",
+    "phase_name": "The Idealist",
+    "age": 54,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.0,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 5.3,
+      "Trade Negotiation": 6.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.52
+  },
+  {
+    "agent_id": "d625cb70-fb5b-4c45-9788-4f2615e737f6",
+    "name": "Dr. Amara Singh",
+    "phase_name": "The Maverick",
+    "age": 60,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.9,
+      "Economic Strategy": 7.5,
+      "Policy Implementation": 8.4,
+      "Crisis Management": 7.6,
+      "Trade Negotiation": 9.5
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 9.2,
+    "learning_rate": 0.96
+  },
+  {
+    "agent_id": "9fa67554-c563-4d1c-beb3-6d3a5ee89f3b",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Operator",
+    "age": 54,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.5,
+      "Economic Strategy": 7.3,
+      "Policy Implementation": 6.6,
+      "Crisis Management": 7.8,
+      "Trade Negotiation": 8.9
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.91
+  },
+  {
+    "agent_id": "38d5fc8a-2cf2-41bd-9be7-0a1fed3af07a",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Pragmatist",
+    "age": 58,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Growth Technocrat",
+    "governance_alignment": "Developmental State Model",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.2,
+      "Economic Strategy": 7.7,
+      "Policy Implementation": 7.1,
+      "Crisis Management": 6.8,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.73
+  },
+  {
+    "agent_id": "940dc199-ee15-49a3-8821-ebad8585e1fd",
+    "name": "Dr. Elena Martinez",
+    "phase_name": "The Loyalist",
+    "age": 59,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 4.4,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.44
+  },
+  {
+    "agent_id": "1f593871-df0b-41ad-b5c5-61b8b81a78cb",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Loyalist",
+    "age": 39,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.7,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 4.6,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 9.3,
+    "learning_rate": 0.54
+  },
+  {
+    "agent_id": "4a05355c-cc2c-4b64-ad05-aa4f3f35c1a8",
+    "name": "Dr. Amara Singh",
+    "phase_name": "The Operator",
+    "age": 41,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.36
+  },
+  {
+    "agent_id": "564544cb-7f52-422a-b1a9-b21349b2f9ce",
+    "name": "Dr. Fatima Martinez",
+    "phase_name": "The Loyalist",
+    "age": 40,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.1,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 6.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.3,
+    "learning_rate": 0.69
+  },
+  {
+    "agent_id": "ec21342e-8234-4a41-af74-59fa7589bb93",
+    "name": "Dr. Elena Chen",
+    "phase_name": "The Loyalist",
+    "age": 44,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 5.4,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "cf54ece2-5299-4490-87c9-dd7677633faf",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 39,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 6.4,
+      "Crisis Management": 5.9,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.37
+  },
+  {
+    "agent_id": "48842da5-26e3-444e-9383-956e17800a7e",
+    "name": "Dr. Elena Chen",
+    "phase_name": "The Idealist",
+    "age": 60,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.0,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 3.2,
+      "Trade Negotiation": 6.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.7
+  },
+  {
+    "agent_id": "dd966381-d016-426b-82ff-755d54219320",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Maverick",
+    "age": 50,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 5.9,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 5.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.31
+  },
+  {
+    "agent_id": "c6eea943-e3cb-443a-af0d-01e5f5c03a96",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Loyalist",
+    "age": 43,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 3.7,
+      "Trade Negotiation": 6.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.63
+  },
+  {
+    "agent_id": "27c67397-10c7-4fdc-a82a-69821f70ed86",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Operator",
+    "age": 49,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 3.1,
+      "Trade Negotiation": 7.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.7,
+    "learning_rate": 0.38
+  },
+  {
+    "agent_id": "9709df64-0b13-426c-aa22-8e6a64ab6651",
+    "name": "Dr. Luis Singh",
+    "phase_name": "The Pragmatist",
+    "age": 60,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 6.5,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 7.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.4,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "077b5fb6-ef42-45d0-ba6b-95dcaf594da6",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Maverick",
+    "age": 48,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 5.2,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 4.4,
+      "Trade Negotiation": 6.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "c4c1c35a-0eb3-453d-9253-328a0bd14dc5",
+    "name": "Dr. Fatima Okoro",
+    "phase_name": "The Loyalist",
+    "age": 47,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 6.0,
+      "Trade Negotiation": 6.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.6,
+    "learning_rate": 0.42
+  },
+  {
+    "agent_id": "9d0035f6-bd54-4b33-a82a-2c826a725729",
+    "name": "Dr. Elena Martinez",
+    "phase_name": "The Maverick",
+    "age": 57,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.7,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.35
+  },
+  {
+    "agent_id": "5cbbd0c1-ead3-4f52-b468-5279b5759e03",
+    "name": "Dr. Elena Okoro",
+    "phase_name": "The Idealist",
+    "age": 62,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 5.1,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 7.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "a6d54a97-1638-4bf0-b029-da8ec1e489fc",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 38,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.5,
+      "Economic Strategy": 8.8,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 9.7
+    },
+    "risk_flags": [
+      "Ambition overreach"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.64
+  },
+  {
+    "agent_id": "6bc57fa6-6dc3-43dd-bab1-62f0ee194cc8",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Idealist",
+    "age": 53,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.3,
+      "Economic Strategy": 9.0,
+      "Policy Implementation": 6.0,
+      "Crisis Management": 5.4,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.69
+  },
+  {
+    "agent_id": "76ba3cbb-4fdc-41b4-b9a2-d3ef3a04e54d",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Idealist",
+    "age": 63,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "AI-Governed Optimizer",
+    "governance_alignment": "Balanced Progress Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.0,
+      "Economic Strategy": 7.6,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 7.3,
+      "Trade Negotiation": 9.8
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.64
+  },
+  {
+    "agent_id": "34a9f44e-af3b-4366-9a65-1c59dc709fa5",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Idealist",
+    "age": 63,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 4.9,
+      "Trade Negotiation": 7.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "4195af03-f273-4d2a-aefb-64ed828b414f",
+    "name": "Dr. Amara Singh",
+    "phase_name": "The Operator",
+    "age": 58,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 4.9,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 5.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.7,
+    "learning_rate": 0.36
+  },
+  {
+    "agent_id": "a43931a2-127a-4e02-aaa2-3c97655f86f9",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Pragmatist",
+    "age": 39,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 4.3,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "f18b5e45-e81a-4dd1-9870-2394ce04b7eb",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 49,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.9,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 4.7,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 5.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 7.4,
+    "learning_rate": 0.58
+  },
+  {
+    "agent_id": "dd2c18fc-2a02-4fe4-9942-9239e84b7dba",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Loyalist",
+    "age": 44,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.6,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.61
+  },
+  {
+    "agent_id": "8e483a9c-888d-4fc9-82bb-154af470e82b",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Loyalist",
+    "age": 60,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 5.6,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.53
+  },
+  {
+    "agent_id": "e17d9c46-a77b-4ba9-aa0b-3f068b1389fb",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Loyalist",
+    "age": 45,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 3.5,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.8,
+    "learning_rate": 0.56
+  },
+  {
+    "agent_id": "3a727d52-c501-42f4-91ee-a98e940dfc58",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Pragmatist",
+    "age": 63,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.8,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.58
+  },
+  {
+    "agent_id": "328b449d-d200-476f-a2db-de16375b137e",
+    "name": "Dr. Luis Chen",
+    "phase_name": "The Operator",
+    "age": 59,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.0,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 4.2,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Former Position: WTO Deputy Director",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "a62aa543-e9e6-4aab-a95c-e93cd393c737",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Maverick",
+    "age": 44,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.1,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 3.2,
+      "Trade Negotiation": 7.5
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.6,
+    "learning_rate": 0.43
+  },
+  {
+    "agent_id": "26ea9295-8a0d-43cd-8f71-ee62cf38598c",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Operator",
+    "age": 61,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 5.0,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 8.6,
+    "learning_rate": 0.52
+  },
+  {
+    "agent_id": "c466eb8d-860b-44b4-af26-182abd85709d",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 56,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.1,
+      "Economic Strategy": 6.2,
+      "Policy Implementation": 4.3,
+      "Crisis Management": 4.3,
+      "Trade Negotiation": 6.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 7.5,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "5109ffa3-e03e-4b25-8f33-711c8197d27c",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Maverick",
+    "age": 54,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 4.4,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 7.8
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.2,
+    "learning_rate": 0.65
+  },
+  {
+    "agent_id": "832d3a3b-fa09-4353-9519-926562ddd441",
+    "name": "Dr. Fatima Singh",
+    "phase_name": "The Pragmatist",
+    "age": 53,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.7,
+      "Economic Strategy": 6.6,
+      "Policy Implementation": 5.0,
+      "Crisis Management": 3.1,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 9.4,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "fa304067-ae67-4b64-922f-c92b3054ae19",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Loyalist",
+    "age": 46,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.1,
+      "Policy Implementation": 4.5,
+      "Crisis Management": 3.3,
+      "Trade Negotiation": 5.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 9.1,
+    "learning_rate": 0.66
+  },
+  {
+    "agent_id": "eddc76e9-dd73-4f08-9009-4af285d22099",
+    "name": "Dr. Fatima Martinez",
+    "phase_name": "The Operator",
+    "age": 62,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.0,
+      "Economic Strategy": 8.9,
+      "Policy Implementation": 8.1,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Architect of post-conflict reconstruction policy"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.92
+  },
+  {
+    "agent_id": "943380fb-f9e9-489a-aeb2-212170f310a0",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Operator",
+    "age": 45,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.9,
+      "Economic Strategy": 7.3,
+      "Policy Implementation": 8.1,
+      "Crisis Management": 8.0,
+      "Trade Negotiation": 9.0
+    },
+    "risk_flags": [
+      "Ideological rigidity"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 8.4,
+    "learning_rate": 0.91
+  },
+  {
+    "agent_id": "f7c0c5c9-8925-406f-becf-ca86758ab519",
+    "name": "Dr. Elena Singh",
+    "phase_name": "The Loyalist",
+    "age": 51,
+    "gender": "F",
+    "background": "Mixed Heritage",
+    "ideology": "Guild Regionalist",
+    "governance_alignment": "Regional Resource Governance Economy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.5,
+      "Economic Strategy": 8.1,
+      "Policy Implementation": 7.9,
+      "Crisis Management": 5.0,
+      "Trade Negotiation": 8.8
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.8,
+    "learning_rate": 0.94
+  },
+  {
+    "agent_id": "07bfc68c-0fdf-476f-aa37-a895525a7571",
+    "name": "Dr. Kenji Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 62,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.0,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 4.1,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 6.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Served in high-conflict negotiation zones"
+    ],
+    "position_compatibility_score": 6.9,
+    "learning_rate": 0.46
+  },
+  {
+    "agent_id": "6c7cdc83-0072-40d5-b31c-66781b3f233a",
+    "name": "Dr. Amara Martinez",
+    "phase_name": "The Operator",
+    "age": 59,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 5.1,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 4.7,
+      "Trade Negotiation": 7.0
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.6,
+    "learning_rate": 0.51
+  },
+  {
+    "agent_id": "ee9de1df-7c99-475a-bc2c-d2abcd838d9b",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Pragmatist",
+    "age": 56,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.5,
+      "Economic Strategy": 5.5,
+      "Policy Implementation": 5.6,
+      "Crisis Management": 4.7,
+      "Trade Negotiation": 5.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 7.2,
+    "learning_rate": 0.47
+  },
+  {
+    "agent_id": "3a395429-40d4-4800-aa87-7b19c2ae271f",
+    "name": "Dr. Luis Martinez",
+    "phase_name": "The Pragmatist",
+    "age": 52,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 6.8,
+      "Policy Implementation": 5.9,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 7.2
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.38
+  },
+  {
+    "agent_id": "3ee99b8e-28fc-4aa3-a56b-ca48268e6d1f",
+    "name": "Dr. Amara Okoro",
+    "phase_name": "The Operator",
+    "age": 48,
+    "gender": "M",
+    "background": "African Diaspora",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 6.9,
+      "Policy Implementation": 4.8,
+      "Crisis Management": 4.2,
+      "Trade Negotiation": 7.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 7.1,
+    "learning_rate": 0.62
+  },
+  {
+    "agent_id": "33913d35-9d14-4906-ba4b-1ddc20a12e75",
+    "name": "Dr. Kenji Okoro",
+    "phase_name": "The Loyalist",
+    "age": 44,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 5.5,
+      "Trade Negotiation": 5.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 6.7,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "0ad38c18-1dd8-48d0-b8ed-3896d8121b03",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 59,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.5,
+      "Crisis Management": 5.1,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.0,
+    "learning_rate": 0.33
+  },
+  {
+    "agent_id": "fb52095f-4bda-40aa-94e6-5603045c2a1e",
+    "name": "Dr. Amara Okoro",
+    "phase_name": "The Idealist",
+    "age": 60,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 4.1,
+      "Trade Negotiation": 6.9
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Academic Background: Economics PhD",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 8.6,
+    "learning_rate": 0.7
+  },
+  {
+    "agent_id": "f5e02068-cd65-4d0b-94ba-8dbf66faf54a",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Maverick",
+    "age": 62,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.3,
+      "Economic Strategy": 5.0,
+      "Policy Implementation": 5.7,
+      "Crisis Management": 4.6,
+      "Trade Negotiation": 6.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Led trade reforms during crisis period"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.5
+  },
+  {
+    "agent_id": "384e29ad-86ed-4648-89e5-8d7d9031d020",
+    "name": "Dr. Kenji Chen",
+    "phase_name": "The Idealist",
+    "age": 42,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.4,
+      "Economic Strategy": 5.7,
+      "Policy Implementation": 6.1,
+      "Crisis Management": 4.3,
+      "Trade Negotiation": 7.1
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.2,
+    "learning_rate": 0.68
+  },
+  {
+    "agent_id": "99da43ee-23df-4d01-94a7-77b1671062d4",
+    "name": "Dr. Kenji Singh",
+    "phase_name": "The Loyalist",
+    "age": 44,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.9,
+      "Economic Strategy": 5.4,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 3.9,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Published author on renewable economies"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.57
+  },
+  {
+    "agent_id": "d78b6bf5-b1f5-4428-b5e3-5cda42e8d240",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Loyalist",
+    "age": 45,
+    "gender": "M",
+    "background": "East Asian",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.5,
+      "Economic Strategy": 5.3,
+      "Policy Implementation": 4.0,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 7.6
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.2,
+    "learning_rate": 0.43
+  },
+  {
+    "agent_id": "f73e09f4-a69d-427e-b460-37742dd04502",
+    "name": "Dr. Fatima Chen",
+    "phase_name": "The Pragmatist",
+    "age": 58,
+    "gender": "F",
+    "background": "East Asian",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.2,
+      "Economic Strategy": 6.0,
+      "Policy Implementation": 5.2,
+      "Crisis Management": 4.0,
+      "Trade Negotiation": 6.4
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.35
+  },
+  {
+    "agent_id": "a074f55c-4e57-44f6-a50d-bd0d88446f14",
+    "name": "Dr. Amara Ivanov",
+    "phase_name": "The Maverick",
+    "age": 39,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 6.8,
+      "Economic Strategy": 6.7,
+      "Policy Implementation": 6.3,
+      "Crisis Management": 3.4,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Served in high-conflict negotiation zones",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.49
+  },
+  {
+    "agent_id": "cd7af12d-ff92-427e-abaa-2e3b32ad96b3",
+    "name": "Dr. Elena Ivanov",
+    "phase_name": "The Idealist",
+    "age": 62,
+    "gender": "F",
+    "background": "African Diaspora",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 5.2,
+      "Economic Strategy": 6.4,
+      "Policy Implementation": 6.2,
+      "Crisis Management": 5.6,
+      "Trade Negotiation": 5.3
+    },
+    "risk_flags": [],
+    "career_notes": [
+      "Led trade reforms during crisis period",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 8.5,
+    "learning_rate": 0.32
+  },
+  {
+    "agent_id": "892ef808-52ae-4be4-8a5a-f499d2d74ade",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Maverick",
+    "age": 43,
+    "gender": "F",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 7.8,
+      "Economic Strategy": 8.3,
+      "Policy Implementation": 7.5,
+      "Crisis Management": 5.8,
+      "Trade Negotiation": 8.3
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 8.9,
+    "learning_rate": 0.76
+  },
+  {
+    "agent_id": "e1e9a25e-569d-4dc2-b974-8d9c2e7b92e3",
+    "name": "Dr. Fatima Ivanov",
+    "phase_name": "The Pragmatist",
+    "age": 48,
+    "gender": "M",
+    "background": "Mixed Heritage",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.6,
+      "Economic Strategy": 8.4,
+      "Policy Implementation": 7.2,
+      "Crisis Management": 5.7,
+      "Trade Negotiation": 9.3
+    },
+    "risk_flags": [
+      "Burnout risk"
+    ],
+    "career_notes": [
+      "Published author on renewable economies",
+      "Academic Background: Economics PhD"
+    ],
+    "position_compatibility_score": 6.8,
+    "learning_rate": 0.72
+  },
+  {
+    "agent_id": "54a24064-6f72-47bd-bf01-777c6afb7c86",
+    "name": "Dr. Kenji Martinez",
+    "phase_name": "The Idealist",
+    "age": 40,
+    "gender": "M",
+    "background": "North American",
+    "ideology": "Extraction Monarchist",
+    "governance_alignment": "Authoritarian Resource-Hoarding Monarchy",
+    "attribute_ratings": {
+      "Diplomatic Prowess": 8.6,
+      "Economic Strategy": 7.1,
+      "Policy Implementation": 6.8,
+      "Crisis Management": 5.2,
+      "Trade Negotiation": 7.7
+    },
+    "risk_flags": [
+      "Susceptible to coercion"
+    ],
+    "career_notes": [
+      "Architect of post-conflict reconstruction policy",
+      "Former Position: WTO Deputy Director"
+    ],
+    "position_compatibility_score": 6.5,
+    "learning_rate": 0.93
+  }
+]

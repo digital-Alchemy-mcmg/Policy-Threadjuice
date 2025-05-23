@@ -1,0 +1,29 @@
+# agent_card_template.yaml
+agent_card:
+  agent_id: "UUID-v4"
+  name: "Dr. Elena Singh"
+  phase_name: "The Operator"
+  age: 42
+  gender: "F"
+  background: "East Asian"
+  ideology: "Social Democrat"
+  governance_alignment: "Social Market Economy"
+  attribute_ratings:
+    Diplomatic Prowess: 7.8
+    Economic Strategy: 6.9
+    Policy Implementation: 7.2
+    Crisis Management: 6.1
+    Trade Negotiation: 8.4
+  risk_flags:
+    - "Burnout risk"
+  career_notes:
+    - "Academic Background: Economics PhD"
+    - "Served in high-conflict negotiation zones"
+  position_compatibility_score: 8.1
+  learning_rate: 0.78
+  hidden_fields:
+    - learning_rate
+    - ambition_level
+    - loyalty_score
+status: schema_template
+author: SXV8

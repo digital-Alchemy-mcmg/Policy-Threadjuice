@@ -1,0 +1,25 @@
+Module,Category,Threads Present,Finalized Status,Mentioned Layers,Dependencies,Contradiction Risk,Redundancy Avg
+AssistantModule_6,Uncategorized,"policy014.txt, policy015.txt",Unknown,,,,0.0%
+GovernanceMatrix_0,Uncategorized,"policy014.txt, policy015.txt, policy016.txt, policy017.txt",Unknown,,,,0.0%
+StatecraftDialogueSystem_X,Uncategorized,policy014.txt,Unknown,,,,0.0%
+LedgerModule_Ω,Uncategorized,policy014.txt,Unknown,,,,0.0%
+NarrativeFlowModule_27,Uncategorized,"policy014.txt, policy017.txt",Unknown,,,,0.0%
+LexiconCore_Ω,Uncategorized,policy017.txt,Unknown,,,,0.0%
+VoiceCueSystem_X,Uncategorized,policy017.txt,Unknown,,,,0.0%
+ExternalActorEngine_33,Uncategorized,policy017.txt,Unknown,,,,0.0%
+RegionFlashpointModule_20,Uncategorized,policy017.txt,Unknown,,,,0.0%
+PlayerProfileSystem_Ω,Uncategorized,policy017.txt,Unknown,,,,0.0%
+SimulationCueRouter,Uncategorized,policy017.txt,Unknown,,,,0.0%
+TurnEngine_Ω,Uncategorized,"policy015.txt, policy016.txt",Unknown,,,,0.0%
+GameMapModule,Uncategorized,policy016.txt,Unknown,,,,0.0%
+ResourceModule_0,Uncategorized,policy016.txt,Unknown,,,,0.0%
+CombatEngine_9,Uncategorized,policy016.txt,Unknown,,,,0.0%
+AIModelingModule,Uncategorized,policy016.txt,Unknown,,,,0.0%
+PlaytestMatrixModule,Uncategorized,policy016.txt,Unknown,,,,0.0%
+SaveStateModule_36,Uncategorized,policy016.txt,Unknown,,,,0.0%
+WARModule_7,Uncategorized,policy015.txt,Unknown,,,,0.0%
+MICModule_6,Uncategorized,policy015.txt,Unknown,,,,0.0%
+RedingtonRoomSimulator,Uncategorized,policy015.txt,Unknown,,,,0.0%
+MigrationModule_12,Uncategorized,policy015.txt,Unknown,,,,0.0%
+ExileProtocolLayer,Uncategorized,policy015.txt,Unknown,,,,0.0%
+NuclearLaunchStack,Uncategorized,policy015.txt,Unknown,,,,0.0%

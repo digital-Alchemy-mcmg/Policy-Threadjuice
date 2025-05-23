@@ -1,0 +1,78 @@
+\[
+{
+"thread\_file": "policy002.txt",
+"source\_snippets": \[
+"NEXIS system",
+"Turn Engine",
+"WParticleEngine",
+"Spy/Operative logic",
+"Advocate design"
+],
+"modules\_touched": \[
+"NEXIS\_System\_10",
+"TurnEngine\_Ω",
+"WParticleEngine\_Ω",
+"SpyModule\_11A",
+"OperativeModule\_11B",
+"AdvocateModule\_11C"
+],
+"confirmed\_actions": \[
+"War lattice replaces turn limit endgame",
+"Only player can stop 8-week countdown",
+"Narrative Particle System (W-particles) drives escalation",
+"Advocates mitigate internal unrest and drift"
+],
+"unresolved\_issues": \[
+"Spy and operative travel time and risk logic needs full implementation",
+"Advocate polling and influence actions need more testing",
+"Unity-compatible graph visualizer still not defined"
+],
+"directives": \[
+"Build SpyModule\_11A",
+"Build OperativeModule\_11B",
+"Write AdvocateModule\_11C",
+"Integrate MIC, CLA, STC agent panels",
+"Create Unity pathfinding logic for agent travel"
+]
+},
+{
+"thread\_file": "policy004.txt",
+"source\_snippets": \[
+"Assistant Behavioral Engine",
+"Cabinet Card System",
+"Archetype YAML generation",
+"Kalico referral logic",
+"Audit mechanics",
+"SVG chart integration",
+"Assistant report structure"
+],
+"modules\_touched": \[
+"CabinetSystem\_6",
+"AssistantBehaviorModule\_6A",
+"CabinetCardUI\_6B",
+"ArchetypeRegistry\_6C",
+"KalicoReferralHook\_6D",
+"SVGVisuals\_6E",
+"ReportSystem\_6F"
+],
+"confirmed\_actions": \[
+"Assistant drift logic finalized with 4-stage arc",
+"Cabinet cards preload SVGs (governance radar, trait radar, personality line)",
+"25 assistant archetypes locked with YAML profiles",
+"Kalico embedded as strategic intern and narrative hook",
+"Assistant reports mutate based on drift level",
+"Player selection system includes soft warnings, no hard locks"
+],
+"unresolved\_issues": \[
+"Need final CNS schema for assistant report payloads",
+"SVG rendering pipeline for animated charts not finalized",
+"No current flag for multi-region assistant influence tracking"
+],
+"directives": \[
+"Finalize CNS payload integration for assistant report logic",
+"Script assistant lifecycle: hire → drift → audit → legacy flag",
+"Complete visual layout templates for all cabinet report types",
+"Define Kalico's governance impact on assigned NPC region post-referral"
+]
+}
+]

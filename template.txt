@@ -1,0 +1,58 @@
+Interactive Regional Infographic: Data Input Template
+
+Region_Name: [Insert region name here]
+Region_Subtitle: A Geopolitical & Economic Profile
+Constituent_Entities: [List states or entities in the region]
+
+Population_Figure: [e.g., "Approximately 29.6 million"]
+GDP_Estimate: [e.g., "Estimated in the Trillions (USD)"]
+Production_Modifier_Description: [e.g., "+1 (Yields 1.5x output from abundant resources)"]
+Overview_Summary_Paragraph: [1-2 sentence summary of the region’s economic/geographic identity]
+
+Abundant_Resources:
+- 🌾 Farmland (Supports robust agriculture)
+- 💧 Freshwater (Critical to food and energy cycles)
+- 🌲 Timber (Sustains regional industries)
+
+Scarce_Resources:
+- 🛢️ Oil (Critical energy import dependency)
+- 🔋 Natural Gas (Limited reserves)
+
+Production_Modifier_Impact_Note: [Explain how the modifier affects the abundant resources]
+
+Most_Profitable_Internal_Resource_Name: [e.g., "Pharmaceuticals"]
+Top_Export_Trade_Commodity_Name: [e.g., "Pharmaceuticals"]
+Key_Economic_Drivers_Summary_Paragraph: [1-2 sentence explanation of key sectors driving growth]
+
+Capital_System_Intro_Paragraph: [Explain the capital model — e.g., tri-capital logistics]
+Capitals_Data:
+- 🏛️ Philadelphia, PA (Main Capital): Governance, Diplomacy, Policy Formulation
+- 🪖 West Chester, PA (Military Capital): Defense Coordination, Intelligence Operations
+- 🏬 New York City, NY (Trade Capital): Commerce, Trade Routes, Labor Negotiation
+
+Node_Logistics_Advantages_Title: Advantages of Node-Based Logistics
+Node_Logistics_Advantages_List:
+- Specialization & Efficiency: Capitals focus on distinct domains
+- Redundancy: Reduces risk of total system failure
+- Mobility: Enables dynamic migration and trade
+
+Trade_Potential_Points:
+- High-value export synergy in pharmaceuticals
+- Abundant resources enhanced by 1.5x production rate
+
+Internal_Stability_Points:
+- Stable population and GDP foundation
+- Resource security for food and water needs
+
+Resource_Bottlenecks_Focus_Resource_Names: oil and natural gas
+Resource_Bottlenecks_Implications_Points:
+- Import dependency introduces vulnerability
+- Market volatility may impact regional trade value
+
+Energy_Scarcity_Response_Strategies_Points:
+- Diversify import partners
+- Invest in alternative energy development
+
+Role_In_Alliances_Points:
+- Critical medical supplier for allied regions
+- Candidate for trade pacts ensuring energy security

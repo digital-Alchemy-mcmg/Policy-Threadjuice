@@ -1,0 +1,9 @@
+Module,Category,Confirmed Action,Unresolved Issue,Directive
+StatecraftModule_5,Simulation Indices,Statecraft Index fully defined with metrics and formula,,Implement formula and embed JSON trace paths
+MICModule_6,Simulation Indices,Final MIC Index specification and CSV artifact ready,"Tech Level cap ambiguity, Governance Modifier overflow risk",Integrate drain calculation and finalize scoring system
+GovernanceModule_9,Governance Systems,All ten governance models with JSON schemas finalized,Clarify trait overlap and instability trigger timing,Wire schemas into Turn Engine and assistant hooks
+PersonaSchemaKit_Z,Narrative / Profiling,Personality profile logic defined for all models,Instability trigger reactivation behavior unclear,Bind profile traits to Reddington's dilemma routing
+TurnEngineModule_Final,Core Engine,Confirmed per-turn processing of index calculations,"Precedence of multiple resource strains (e.g., MIC vs. Statecraft)",Simulate effects on survival metrics
+KumoBridgeModule_X,Systems Integration,Identified Kumo node dependencies from resource to output,Unclear processing turn for Kumo updates,Define bridge schema for resource-to-outcome hooks
+CNSModule_4,Traceability / Audit,All metrics and traits mapped to player_state JSON,None,Build trace validation layer
+LedgerModule_X,Turn Impact / Resources,MIC/Statecraft deltas captured with resource strain formulas,Multiple strain logic conflict,Route drain effects into survival metrics ledger

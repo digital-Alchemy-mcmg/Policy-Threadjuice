@@ -1,0 +1,3 @@
+Module,Category,Confirmed Action,Unresolved Issue,Directive
+ResourcesModule_0,Core Simulation Layer,"ResourcesModule_0 finalized at 100%, Unity-ready with pending event binding",,Patch Unity tick handler for ResourcesModule_0 and KitsModule_2
+KitsModule_2,Core Simulation Layer,"KitsModule_2 defined with Unity-ready code, mediator, and dependency handling",,Patch Unity tick handler for ResourcesModule_0 and KitsModule_2

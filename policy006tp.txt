@@ -1,0 +1,73 @@
+[Start]
+   ↓
+[Region Selection]
+   │
+   ├── Choose one of 8 regions via Regional Infographic Card
+   │    ├── Subtypes:
+   │    │   ├── Static (Non-collapsible, no JS):
+   │    │   │   ├── Dixieland (–0.5 modifier, Steel/Poultry, Rare Earth scarcity)
+   │    │   │   └── Great Lakes Federation (+1 modifier, Automobiles, Oil/Natural Gas scarcity)
+   │    │   └── Interactive (Collapsible, JS for toggling):
+   │    │       ├── Commonwealth of the Americas (0 modifier, Pharmaceuticals/Tobacco, Oil scarcity)
+   │    │       ├── Coastal Confederate (+0.5 modifier, Kaolin Clay/Automobiles, Metallic Minerals scarcity)
+   │    │       ├── Keystone States (+1 modifier, Pharmaceuticals, Oil/Natural Gas scarcity)
+   │    │       ├── Northern Frontier (–0.5 modifier, Semiconductors/Timber, Water scarcity)
+   │    │       ├── Sierra Mesa (+1 modifier, Oil, Water scarcity)
+   │    │       └── The Heartland (–1 modifier, Corn, Water scarcity)
+   │    ├── Fields: Region_Name, Population, GDP (where applicable), Resources, Capitals, Production Modifier
+   │    ├── Optional: Governance Card (e.g., Traditionalist Republic for Dixieland, Technocratic Republic for Keystone States)
+   │    ├── Reddington’s Prompt: “Your region shapes your destiny. Choose with care.”
+   │    ├── Kumo Profiling: Tracks choice (e.g., Sierra Mesa’s oil dominance = energy superpower)
+   │    └── Tab Context: Static (Dixieland, Great Lakes) vs. Interactive (others) Regional Profiles
+   ↓
+[Intro Sequence]
+   ├── Reddington’s Monologue: Sets dystopian tone, region-specific context (e.g., “Keystone States: Pharmaceutical powerhouse faces energy crisis”)
+   ├── Region-Specific News Feed: Simulated X posts (e.g., “Northern Frontier: Water scarcity threatens growth”)
+   └── Transition to Game Loop
+   ↓
+[Game Loop (~20 turns)]
+   ├── [Turn Start]
+   │    ├── Display Survival Metrics: Food, Security, Stability (influenced by region’s resources, e.g., Heartland’s corn = high food security)
+   │    ├── Reddington’s Commentary: Contextual advice (e.g., “Diversify energy imports, Keystone States”)
+   │    └── Region-Specific Events: Crises tied to bottlenecks (e.g., “Oil shortage in Great Lakes Federation”)
+   │
+   ├── [Player Actions]
+   │    ├── Allocate Resources via Resource Card: Manage abundant/scarce resources (e.g., Oil for Sierra Mesa, Water for Northern Frontier)
+   │    ├── Adjust Governance via Governance Card: Optional mid-game shift (e.g., from Agrarian Cooperative to Technocracy in Heartland)
+   │    ├── Diplomacy/Trade: Form alliances based on Role in Alliances (e.g., Keystone States as pharmaceutical supplier)
+   │    └── Infrastructure Investments: Address bottlenecks (e.g., desalination for Sierra Mesa)
+   │
+   ├── [Outcome Resolution]
+   │    ├── Calculate MIC Score: Based on resource allocation, production modifier (–1 to +1), and trade outcomes
+   │    ├── Apply Region-Specific Modifiers: e.g., +1 for Keystone States yields 1.5x farmland output
+   │    └── Update Abundance Scores: Reflect resource management (e.g., water scarcity reduces Heartland’s stability)
+   │
+   ├── [Narrative Feedback]
+   │    ├── Reddington via Assistant Card: Provides strategic insights (e.g., “Heartland’s water crisis demands action”)
+   │    ├── News Feed Updates: Reflect player choices (e.g., “Sierra Mesa secures oil trade deal”)
+   │    └── Kumo Profile Updates: Tracks player tendencies (e.g., “Innovative Diplomat” for Keystone States)
+   │
+   ├── [Event Trigger]
+   │    ├── Crises: Region-specific (e.g., “Water shortage in Northern Frontier”)
+   │    ├── Opportunities: Alliance or trade deals (e.g., “Great Lakes Federation exports automobiles to Coastal Confederate”)
+   │    └── Random Events: Global disruptions (e.g., “Energy market crash affects Keystone States”)
+   │
+   └── [End Turn]
+        ├── Update Metrics: Stability, Food, Security
+        ├── Advance Turn Counter
+        └── Check Endgame Conditions (e.g., 20 turns or collapse)
+   ↓
+[Endgame Transition]
+   ├── Reddington’s “Revelation”: Reflects on player’s legacy (e.g., “Sierra Mesa: Energy titan or overextended empire?”)
+   ├── Kumo Profile Reveal: Summarizes player style (e.g., “The Heartland: Resilient Agrarian Leader”)
+   └── Outcome Summary: Metrics, alliance status, narrative impact
+   ↓
+[Endgame Outcome]
+   ├── Victory: Alliance dominance, high stability (e.g., Keystone States leads pharmaceutical alliance)
+   ├── Collapse: Resource depletion, instability (e.g., Northern Frontier succumbs to water scarcity)
+   └── Partial Success: Mixed outcomes (e.g., Great Lakes Federation thrives industrially but faces energy constraints)
+   ↓
+[Replay Option]
+   ├── Select New Region: e.g., switch from Sierra Mesa to Coastal Confederate
+   ├── Adjust Governance: e.g., try Free-Market Capitalism instead of Industrial Democracy
+   └── Restart with Modified Kumo Profile
