@@ -1,11 +1,1 @@
-[
-  {
-    "module_name": "dummy.txt",
-    "A1_status": false,
-    "A2_status": false,
-    "A3_status": false,
-    "subsystem_name": "unknown",
-    "file_path": "codex/modules/dummy.txt",
-    "dependencies": []
-  }
-]
+[]
