@@ -1,0 +1,10 @@
+[
+  {
+    "filename": "codex/modules/dummy.txt",
+    "module_name": "dummy.txt",
+    "A1_found": true,
+    "A2_found": false,
+    "A3_found": false,
+    "notes": "A1: Present because the file contains the explanatory text 'This is a dummy file.', which describes its purpose. A2: Absent as there are no code-like structures, data definitions, or rule sets. A3: Absent as there is no description of data transformation, inter-module communication, or execution flow."
+  }
+]
