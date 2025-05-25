@@ -1,3 +1,97 @@
+# 🧭 `decision-mapping.module.js`
+### 🎯 *Seven-Layer Decision Mapper | CNS Middleware | Ledger-Compliant*
+
+---
+
+## 🧩 A1 — OVERVIEW
+**Purpose:**  
+Map every player decision into a structured Seven-Layer format.  
+Generate ledger-compliant metadata.  
+Route output to Ledger, Feedback Engine, and passive Redington observer.  
+
+**Used For:**
+- Ideological tagging  
+- Turn resolution  
+- Emotional and strategic profiling  
+- Narrative hook construction (future)
+
+---
+
+## 🔧 A2 — CORE LOGIC
+
+```js
+function mapDecisionToLayers(decision, context) {
+  return {
+    action_id: decision.id,
+    layers: {
+      philosophy: inferPhilosophy(context),
+      principle: inferGuidingPrinciples(context),
+      doctrine: inferDoctrine(context),
+      mandate: inferOperationalMandate(decision),
+      policy: inferRegulatoryPolicy(context, decision),
+      strategy: inferStrategy(context),
+      tactic: inferTactic(decision)
+    },
+    metadata: {
+      source_module: decision.source_module,
+      assistant: context.assistant,
+      governance_type: context.governance,
+      turn: context.turn,
+      timestamp: new Date().toISOString(),
+      ledger_id: generateLedgerID(decision, context)
+    }
+  };
+}
+
+function CNSMiddleware_LedgerMapper(decision, context, next) {
+  const ledgerEntry = mapDecisionToLayers(decision, context);
+  if (!validateLedgerEntry(ledgerEntry)) throw new Error("Ledger validation failed.");
+
+  Ledger.write(ledgerEntry);
+  Reddington.shadowProfile.observe(ledgerEntry);
+  FeedbackEngine.queue(ledgerEntry);
+
+  return next(ledgerEntry);
+}
+```
+
+---
+
+## 🧪 A3 — VALIDATION
+
+```js
+function validateLedgerEntry(entry) {
+  const topKeys = ["action_id", "layers", "metadata"];
+  const layerKeys = ["philosophy", "principle", "doctrine", "mandate", "policy", "strategy", "tactic"];
+
+  for (let key of topKeys) if (!(key in entry)) return false;
+  for (let key of layerKeys) {
+    const val = entry.layers[key];
+    if (typeof val !== "string" || val.trim() === "") return false;
+  }
+
+  const m = entry.metadata;
+  return m.turn && m.source_module && m.ledger_id;
+}
+```
+
+---
+
+## 🧷 AX — DEPENDENCIES & CONTRACTS
+
+- `Ledger.write(entry)` — Persists record with ID + context
+- `Reddington.shadowProfile.observe(entry)` — Passive psychological indexing
+- `FeedbackEngine.queue(entry)` — Enqueue for explicit/implicit cue generation
+- `generateLedgerID(decision, context)` — Ensures unique traceable ID (`T23-A06`)
+
+🧩 Register in CNS:
+```js
+CNS.registerMiddleware("ledgerMapper", CNSMiddleware_LedgerMapper);
+```
+
+
+
+
 THE SEVEN LAYERS OF decision tree management
 
 The processing of player decisions is a critical function, with each choice being meticulously routed to several key game systems. Specifically, player-initiated actions are not only directed to the turn engine for immediate resolution and advancement of the game state, but are also simultaneously transmitted to The Ledger. This ensures a comprehensive and auditable record of all player activities, contributing to the integrity and long-term consistency of the game world. Furthermore, certain player decisions are also channeled to a specific in-game persona, Raymond Reddington, implying a layer of dynamic interaction and potential consequences stemming from this character's involvement.
