@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ICECON Profile Prototype</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #111827;
+        color: #E5E7EB;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+    #container {
+        width: 80%;
+        max-width: 900px;
+        background-color: #1F2937;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    }
+    .page {
+        padding: 20px;
+        display: none;
+    }
+    .page.active {
+        display: block;
+    }
+    h1 {
+        margin-top: 0;
+        text-align: center;
+    }
+    .nav {
+        background:#374151;
+        padding: 10px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .nav button {
+        background:#4F46E5;
+        border:none;
+        color:white;
+        padding:5px 10px;
+        border-radius:4px;
+        cursor:pointer;
+    }
+    .section-title {
+        font-weight:bold;
+        text-transform:uppercase;
+        margin-top:20px;
+        margin-bottom:5px;
+        color:#93C5FD;
+    }
+</style>
+</head>
+<body>
+<div id="container">
+    <div class="page active" id="page1">
+        <h1>ICECON (Open Collaboration)</h1>
+        <p>A globally decentralized, open-source governance model that thrives on transparency, network synergy, and shared innovation—but struggles with cohesion, sabotage, and scaling.</p>
+        <div class="section-title">Core Philosophy</div>
+        <p>ICECON stands for <em>Open Collaboration for Shared Prosperity</em>. It champions decentralized, transparent, and co-created governance structures rooted in open-source principles. Everyone builds, everyone benefits.</p>
+        <div class="section-title">Leadership Archetype</div>
+        <p>Servant-systems builders who facilitate participation. Think Linus Torvalds and Audrey Tang blended with community organizers.</p>
+    </div>
+    <div class="page" id="page2">
+        <div class="section-title">Penalty Signals</div>
+        <ul>
+            <li>Data breaches and trust erosion</li>
+            <li>Open access exploited by bad-faith actors</li>
+            <li>Difficulty coordinating at scale</li>
+            <li>Fragmented governance quality</li>
+        </ul>
+        <div class="section-title">Reward Signals</div>
+        <ul>
+            <li>Rapid innovation diffusion</li>
+            <li>Community-led resilience</li>
+            <li>High Maslow scores</li>
+            <li>Ecosystem-level scaling</li>
+        </ul>
+    </div>
+    <div class="nav">
+        <button id="prev">Prev</button>
+        <button id="next">Next</button>
+    </div>
+</div>
+<script>
+const pages = document.querySelectorAll('.page');
+let current = 0;
+function showPage(idx){
+    pages.forEach(p=>p.classList.remove('active'));
+    pages[idx].classList.add('active');
+}
+function clamp(val,min,max){
+    return Math.min(Math.max(val,min),max);
+}
+document.getElementById('prev').addEventListener('click',()=>{
+    current = clamp(current-1,0,pages.length-1);
+    showPage(current);
+});
+document.getElementById('next').addEventListener('click',()=>{
+    current = clamp(current+1,0,pages.length-1);
+    showPage(current);
+});
+</script>
+</body>
+</html>
